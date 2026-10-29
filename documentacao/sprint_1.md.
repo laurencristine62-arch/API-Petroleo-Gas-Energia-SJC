@@ -17,4 +17,4 @@ Definir o problema do projeto, identificar as perguntas do cliente e organizar a
 - Levantamento inicial das fontes de dados.
 
 ## Retrospectiva
-Preencher após a avaliação da sprint: o que funcionou bem, quais dificuldades ocorreram e o que pode ser melhorado na próxima sprint.
+As dificuldades enfrentadas na Sprint 1 foram principalmente a adaptação ao GitHub, pois a maioria da equipe nunca tinha usado branch, pull request e organização de pastas, o que causou erros de commit na main e conflitos de arquivos.Outra dificuldade foi definir o escopo do projeto. No início queríamos abordar tudo sobre petróleo e gás, como preço do barril, notícias, vagas e cursos, e precisamos focar apenas em Dados e Mercado de Trabalho para conseguir entregar no prazo.Também tivemos dificuldade para conciliar os horários de todos, já que cada integrante tem estágio e outras matérias da Fatec, o que atrasou as reuniões e a divisão das tarefas
