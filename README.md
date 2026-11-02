@@ -1,4 +1,5 @@
 # CINETEC
+<img width="1257" height="687" alt="image" src="https://github.com/user-attachments/assets/798c0c0e-4d8e-4343-9df0-be6f6e81856c" />
 
 # API – Petróleo, Gás e Energia em São José dos Campos
 
